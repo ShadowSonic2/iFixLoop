@@ -1,0 +1,6 @@
+#!/bin/sh
+
+./irecovery -c setenv auto-boot true
+./irecovery -c saveenv
+/exit
+./irecovery -c reboot

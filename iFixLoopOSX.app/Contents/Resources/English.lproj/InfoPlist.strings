@@ -1,0 +1,4 @@
+CFBundleName = "iFixLoop";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "iFixLoop version 1.0 Copyright 2010 ShadowSonic2";
+NSHumanReadableCopyright = "Copyright 2010 ShadowSonic2.";
